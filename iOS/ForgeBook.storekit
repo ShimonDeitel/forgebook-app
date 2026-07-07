@@ -1,0 +1,29 @@
+{
+    "nonRenewingSubscriptions" : [],
+    "products" : [
+      {
+        "displayPrice" : "4.99",
+        "familyShareable" : false,
+        "internalID" : "com.shimondeitel.blacksmithlog.pro",
+        "localizations" : [
+          {
+            "description" : "Steel Type Reference Library",
+            "displayName" : "Forge Book - Blacksmith Log Pro",
+            "locale" : "en_US"
+          }
+        ],
+        "productID" : "com.shimondeitel.blacksmithlog.pro",
+        "referenceName" : "Forge Book - Blacksmith Log Pro",
+        "type" : "NonConsumable"
+      }
+    ],
+    "settings" : {
+      "_locale" : "en_US",
+      "_storefront" : "USA"
+    },
+    "subscriptionGroups" : [],
+    "version" : {
+      "major" : 3,
+      "minor" : 0
+    }
+}
